@@ -8,3 +8,4 @@ This folder 0x00-shell_Basics contains the following scripts:
 **6-firstdirectory: create a new directory in /tmp using "mkdir /tmp/my-first-directory"
 **7-movethatfile: move a file using "mv" command
 **8-firstdelete: delete file using "rm" command
+**9-firstdirdeletion:delete directory using "rmdir" command
