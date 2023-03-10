@@ -7,3 +7,4 @@ This folder 0x00-shell_Basics contains the following scripts:
 **5-listfilesdigitonly: lists the content of the working directory with group and user IDs using "ls -an"
 **6-firstdirectory: create a new directory in /tmp using "mkdir /tmp/my-first-directory"
 **7-movethatfile: move a file using "mv" command
+**8-firstdelete: delete file using "rm" command
