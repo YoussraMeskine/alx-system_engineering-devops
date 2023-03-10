@@ -9,3 +9,4 @@ This folder 0x00-shell_Basics contains the following scripts:
 **7-movethatfile: move a file using "mv" command
 **8-firstdelete: delete file using "rm" command
 **9-firstdirdeletion:delete directory using "rmdir" command
+**10-back: back to the previous working directory using the command "cd -"
